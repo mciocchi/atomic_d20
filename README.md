@@ -34,25 +34,21 @@ Scalability
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
 
 # Example Character Sheet
-
+```
+Name:           Tertius
 Concept:        Black Knight
-
 Lineage:        Elf
-
 Physical:       🫁 ♡ ♡ ♡
-
 Mental:         🧠 🧠 🧠
 
 Saves
 -----
-```
 Fortitude:  3
 Reflex:     0
 Willpower:  2
 Perception: 1
 Stealth:    -3
 Armor:      3
-```
 
 Aspects
 -------
@@ -78,7 +74,7 @@ Component Pouch
 Rations
 Backpack
 Flint and Steel
-
+```
 # TODO Boons and Banes
 # TODO Difficulty Scaling
 # Maneuvers
@@ -194,12 +190,15 @@ D20 result:     Wound Location:
 3-4             Right Shoulder
 1-2             Left Shoulder
 ```
-# TODO Healing
-How does magical / alchemical healing work?
+# Healing
 
 A character's Stamina recovers after a half hour rest without strenuous activity.
 
-Characters may recover one Minor Wound per day. Major wounds may be permanent, or they may take as little as one week to recover.
+For each Minor Wound that they have, Characters may roll D20 when they wake up each morning. If they roll 8 or more, the wound is healed. The second day, the DC is 6.  On the third day, the DC is 4.
+
+Characters must wait until the morning of the seventh day in order to roll to heal a Major Wound. The DC to heal a Major wound is 14. At the DM's discretion, even after they heal, some Major Wounds inflict permanent changes.
+
+TODO How does magical / alchemical healing work?
 
 # Death:
 
