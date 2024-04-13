@@ -1,4 +1,5 @@
-# Licensing
+# Atomic D20
+#### Licensing
 
 © 2024. Atomic D20 is openly licensed by Matt Ciocchi under CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)
 
@@ -42,9 +43,9 @@ Physical:       🫁 ♡ ♡ ♡
 
 Mental:         🧠 🧠 🧠
 
-```
 Saves
 -----
+```
 Fortitude:  3
 Reflex:     0
 Willpower:  2
@@ -174,7 +175,7 @@ Characters may choose to specify that they are attempting to deal nonlethal dama
 Wound Locations
 ---------------
 Physical wounds are localized to specific parts of a character's anatomy. If a character receives one as the result of an attack or failed maneuver, the DM may use the result of that roll in order to determine its location:
-
+```
 D20 result:     Wound Location:
 ===============================
 20              Head
@@ -192,7 +193,7 @@ D20 result:     Wound Location:
 5               Left Foot
 3-4             Right Shoulder
 1-2             Left Shoulder
-
+```
 # TODO Healing
 How does magical / alchemical healing work?
 
@@ -215,13 +216,13 @@ You take your last breaths and adrenaline keeps you functioning and grants you a
 Miraculous Recovery:
 --------------------
 You become incapacitated and focus all your energy on staying alive. Roll d20 this turn and on each subsequent turn until you die or return to consciousness:
-
+```
 D20     Result
 ==============
 19-20:  Against all odds, you open your eyes and become conscious again
-10-18:  Survive for another turn
-1-9:    Slip into the abyss and die
-
+11-18:  Survive for another turn
+1-10:    Slip into the abyss and die
+```
 # TODO Creating a Character: Dynamic Character Creation, Level 0
 
 Character stats don't have to be decided ahead of time. They can be decided in medias res, at the time the player needs them.
