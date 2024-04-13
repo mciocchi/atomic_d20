@@ -12,33 +12,37 @@ The Atom is the smallest stable unit found in nature. Despite its small size, it
 
 # The Five Mutually Reenforcing Design Principles of Atomic D20
 
-1. Fun
-------
+Fun
+---
 Above all else, we will strive to make our rules fun, even at the expense of our other principles.
 
-2. Speed
---------
+Speed
+-----
 A faster game is an exciting game, and exciting games are fun.
 
-3. Simplicity
--------------
+Simplicity
+----------
 We will strive to do more with less, which will make our game faster to understand and play.
 
-4. Extensibility
-----------------
+Extensibility
+-------------
 We will prefer open-ended rules that can be extended by players and the community, which will help us do more with less.
 
-5. Scalability:
----------------
+Scalability
+-----------
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
 
 # Example Character Sheet
 
 Concept:        Black Knight
+
 Lineage:        Elf
+
 Physical:       🫁 ♡ ♡ ♡
+
 Mental:         🧠 🧠 🧠
 
+```
 Saves
 -----
 Fortitude:  3
@@ -47,6 +51,7 @@ Willpower:  2
 Perception: 1
 Stealth:    -3
 Armor:      3
+```
 
 Aspects
 -------
@@ -223,197 +228,7 @@ Character stats don't have to be decided ahead of time. They can be decided in m
 
 # TODO Character Progression
 
-Boon to skills falling under High Concept
-Boon when characters progress along their High Concept
-High Concept cannot change during the course of the story.
-Characters accumulate boons and banes through the course of the story.
-Boons and banes scale:
-    1 Boon  = Apprentice
-    2 Boons = Journeyman
-    3 Boons = Master
-
-High Concept: 1 boon
-
-Big vs small boons?
-
-Wounds are Banes.
-
-Boons come from experience and training.
-Boons should require tomes of power from which players can learn new techniques. This ties experience to items in the world and gives characters a reason to quest.
-
-Should skills limit things, or no? e.g. should characters progress as a whole class, or just along one skill at a time? e.g: "Paladin" vs. "Longsword?"
-
-Boons should be differentiated from class progression. Class progression provides a big boon. Aspects, situational boons, and boons from weapons should be smaller.
-
-How to differentiate progression in a maneuver from class progression?
-
-High Concept progression could be a big boon. Aspects could provide small boons and banes (+1)
-
-Should all class aspects progress at the same time, or should they progress separately?
-
-Is this not just the skills problem by any other name?
-
-How to handle:
-* Changes to High Concept
-* New Aspects
-
-Example High Concept:
-
-Holy Warrior (Journeyman)
-
-Aspects:
-    Invoking can give you a boon or give an enemy a bane, but it should cost you a FATE point (or equivalent).
-
-Fill in the blank skills pyramid? Or just apply your High Concept boon to everything. Or, pick skills like this:
-
-Character Variant 1:
---------------------
-++  High Concept Expertise
-+   High Concept General
-
-++  Juggler     Necromancer     Locksmith
-+   Bard        Wizard          Rogue
-
-Character Variant 2:
---------------------
-Expertise comes from Aspects. Players start with some Aspects, but others are acquired over the course of the story.
-
-Aspects can be acquired by experience, Training, and reading tomes of power.
-
-Not all aspects are good. Some, like curses, provide banes.
-
-Aspects also provide a way for characters to improve skills that are outside of their High Concept.
-
-Aspects can grant a character additional expertise within their High Concept, but they can also allow a character to dabble outside of it.
-
-* High Concept
-+ Aspect 1
-+ Aspect 2
-+ Aspect 3
-+ Maneuvers
-+ Spells
-
-Maneuvers are akin to stunts in FATE. They are like Aspects, but they 
-    * Change Rules
-    * Grant bonus in certain situations
-    * Equipment or ability grants a character abilities that they could not ordinarily do
-
-Is this a passive ability? Then it's an Aspect.
-
-Is this something you do? Then it's a Maneuver.
-
-Q: Do Maneuvers have a cost? If not, what is to stop players from using them all the time?
-
-When players progress, do their High Concept Aspects level up together, or separately?
-
-Do Aspects from a characters High Concept progress together, or separately?
-
-Example: Ragnor is a Paladin. His High Concept is "Holy Warrior."
-
-Character Progression Variant 1
--------------------------------
-When Ragnor progresses, he receives the High Concept "Holy Warrior (Journeyman)" and receives a Journeyman's bonus to all Holy Warrior skills.
-
-In his spare time, Ragnor dabbles in cooking, and he's an Apprentice Chef. His Apprentice Chef Aspect was developed separately from his Holy Warrior Aspect, so it does not progress at the same time.
-
-- who decides what Aspects progress?
-
-- Why not progress all aspects at the same time?
-
-- In this variant, players have no incentive to progress any Aspect other than their High Concept.
-
-+ This variant is the simplest.
-
-Character Progression Variant 2
--------------------------------
-Ragnor gains experience, and his Progression Bonus becomes Journeyman (+6)
-
-Ragnor adds his Progression Bonus to any rolls for things that fall under his High Concept.
-
-Ragnor has the "Apprentice Chef" Aspect which does not fall under his High Concept. Therefore, Ragnor does not add his Progression Bonus when he invokes the Chef Aspect.
-
-+ Simple
-Q: How do Aspects that are not part of High Concept progress?
-
-Character Progression Variant 3:
------------------------------------
-Character Progression happens the same as Variant 2, but Aspects are always considered to be within a Character's High Concept.
-
-Ragnor adds his progression bonus to his cooking rolls because he has the "Chef" Aspect.
-
-+ Simple
-+ Unambiguous
-- Coarse-Grained
-
-Character Progression Variant 4
-----------------------------------
-Depending on the situation, Aspects provide either a Boon or a Bane.
-
-Hierarchy of bonuses:
-
-Level:  % Progression Bonus:    Description:
-============================================
-++++    150                     Aspect within High Concept
-+++     100                     High Concept
-++      50                      Aspect outside of High Concept
--       0                       Untrained
-
-Character Progression Variant 5
--------------------------------
-
-High Concept does not grant bonuses directly. High Concept comes with Aspects and Maneuvers.
-
-Maneuvers can be practiced or spontaneous. Spontaneously attempting a Maneuver without practicing it incurs a penalty.
-
-Ragnor can only practice a limited number of maneuvers per day.
-
-Ragnor's High Concept is Holy Warrior. It comes with the following Aspects:
-+ Medium Armor
-+ Holy Spells
-+ Sword and Shield fighting style
-
-Maneuvers
-+ Smite
-
-- We've come back to exhaustive skills lists.
-- Way more complicated.
-+ Fighting Styles are Aspects that can be swapped out!
-Q: Should fighting styles be Aspects or Maneuvers?
-
-It uses way less paper to use Aspects as bonuses "in addition to" High Concept.
-
-Character Progression Variant 6
--------------------------------
-
-Modifiers that a player can collect:
-====================================
-
-High Concept
-Expertise
-Lineage
-Aspect
-Practiced Maneuvers
-Number of Maneuvers Practiced
-
-There is a scaling issue. In the beginning, other modifiers are huge, but as players level up, their boons become outstripped by High Concept.
-
-Simple option: Large Boons replace Small Boons instead of adding with them.
-
-## Summary of Character Progression Variants:
-
-Maneuvers are practiced at the beginning or end of the day.
-There is a limit to the number of Maneuvers that a character may practice in one day.
-Spells are just another kind of maneuver.
-
-Maneuvers can be performed spontaneously, without practice, but that incurs a penalty.
-
-The Maneuvers section of the character sheet needs to differentiate whether spells haveManeuvers section of the character sheet needs to indicate whether spells have been practiced.
-
-I do not think characters should ever just "level up."
-
-They progress along their High Concept, Aspects, and Maneuvers.
-
-Optional: Give DMs the ability to skip levels or start at any point in the game.
+# TODO Defensive Actions
 
 # Defense and Armor Paradigms
 
