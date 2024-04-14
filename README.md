@@ -36,7 +36,7 @@ We will prefer rules that can handle a wide range of power levels and situations
 # Example Character Sheet
 ```
 Name:           Tertius
-Concept:        Black Knight (Journeyman)
+Concept:        Black Knight (Journeyman, 2)
 Lineage:        Elf
 Physical:       🫁 ♡ ♡ ♡
 Mental:         🧠 🧠 🧠
@@ -50,7 +50,7 @@ Armor:      3
 
 Aspects
 -------
-Armorer
+Necromancer (1)
 Magical Burn on Face
 
 Practiced Maneuvers (3)
@@ -127,11 +127,24 @@ Within his studies as a Black Knight at the Order of the Ossuary, Tertius Dabble
 
 Tertius receives a Boon to casting Necromantic spells because of his Aspect. He's a Journeyman, so the boon is 1D8.
 
-As an important sidenote: Tertius 
+As an important sidenote: the Black Knight Concept does not include spellcasting, so it does not grant Tertius a Boon in that regard.
 
-Situation / Status / Wound
-Equipment
-Practice - not an Aspect. Do vs. Have disinction
+It goes without saying that by splitting his training between spellcasting and melee, Tertius will not be as powerful as characters that focus only on spellcasting or only on melee.
+
+DMs are advised to avoid allowing overly broad character Concepts in their game. This can allow characters to apply their Concept bonus to both melee and spellcasting, which tends to create hybrid characters that are overpowered. For this reason, Tertius cannot apply his Black Knight Concept to his Necromantic spells.
+
+### Equipment
+
+Tertius' equipment is something that he has, so it's another Aspect of his character.
+
+Equipment is special because it doesn't progress like other Aspects. When Tercius went from an Apprentice to Journeyman Black Knight, his Boon Dice went from D6 to D8 as his skills sharpened with experience. Despite that, his equipment stayed the same.
+
+He still fights with the axe that he trained with when he was an Apprentice. The weaponsmith was also an Apprentice, and so the axe adds a boon of D6 to the 2D8 that he gets from his Concept.
+
+In general, the Boon granted by weapons and equipment is dependent upon the Boon of the craftsman at the time they were created.
+
+# Practiced Maneuvers
+- not an Aspect. Do vs. Have disinction
 
 # TODO Character Progression
 # TODO Difficulty Scaling
@@ -141,7 +154,7 @@ As a general rule, any character may attempt to do anything.
 
 By default, a character rolls as Untrained (+0)
 
-A character's High Concept, Lineage, and Expertise each grant bonuses if they are relevant to the maneuver that the character is attempting.
+A character's Concept, Lineage, and Expertise each grant bonuses if they are relevant to the maneuver that the character is attempting.
 
 ## Practiced vs. Spontaneous Maneuvers
 
