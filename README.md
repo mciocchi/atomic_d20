@@ -5,7 +5,7 @@
 
 # Acknowledgements
 
-Atomic D20 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, and Mini Six.
+Atomic D20 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
 
 # Why is this game called Atomic D20?
 
@@ -55,24 +55,21 @@ Magical Burn on Face
 
 Practiced Maneuvers (3)
 -----------------------
-Shield and Axe Fighting Style
-Block
-Parry
-Dodge
-Riposte
-Shield Bash
+Trip Attack
 Summon Skeleton
+Bone Javelins
 
 Equipment
 ---------
-Plate and Mail +2
+Plate and Mail (Heavy)
 War Axe
-Kite Shield +1
+Kite Shield
 Component Pouch
 Rations
 Backpack
 Flint and Steel
 ```
+
 # Boons and Banes
 
 ### Boons
@@ -99,7 +96,7 @@ If Tertius had no more Boons to take away, he would roll D20 twice and take the 
 
 If he had multiple Boons of different sizes, his Boons would be removed in order of highest to lowest.
 
-# Aspects:
+# Aspects
 
 Aspects are things that a character has. As long as a character has an Aspect, it is true. If the Aspect ceases to be true, it is crossed out or removed from the character's sheet.
 
@@ -139,15 +136,39 @@ Tertius' equipment is something that he has, so it's another Aspect of his chara
 
 Equipment is special because it doesn't progress like other Aspects. When Tercius went from an Apprentice to Journeyman Black Knight, his Boon Dice went from D6 to D8 as his skills sharpened with experience. Despite that, his equipment stayed the same.
 
-He still fights with the axe that he trained with when he was an Apprentice. The weaponsmith was also an Apprentice, and so the axe adds a boon of D6 to the 2D8 that he gets from his Concept.
+He still fights with the axe that he trained with. The weaponsmith was an Apprentice, and so the axe adds a boon of D6 to the 2D8 that he gets from his Concept.
 
 In general, the Boon granted by weapons and equipment is dependent upon the Boon of the craftsman at the time they were created.
 
 # Practiced Maneuvers
-- not an Aspect. Do vs. Have disinction
+
+In Atomic D20, any character may attempt anything, but success is never guaranteed.
+
+By taking an hour to practice maneuvers at the beginning or end of the day, characters may improve their chances of success and receive a Boon.
+
+Practiced Maneuvers are distinct from Aspects because they're something that characters do, not something that they have. The other requirement of Practiced Maneuvers is that they have to be specific, rather than general.
+
+Characters have limited time to practice Maneuvers, but they can practice more as they become more efficient with experience.
+
+As a Journeyman, Tercius can practice and grant himself a Boon in three specific maneuvers per day. He practices trip attacks, summoning skeletons, and summoning bone javelins.
+
+Tercius can attempt to do anything, but he gains an extra boon in these three Maneuvers over and above those granted by his other Aspects.
 
 # TODO Character Progression
-# TODO Difficulty Scaling
+# Difficulty Scaling
+```
+                Boon Die:   # of Boons:     Easy:	Moderate:	Average:	Hard:	Nearly Impossible:	    Maneuvers Practiced:
+Success Rate:	                            0.85	0.66	    0.5	        0.33	0.15
+Untrained	    d4	        0	            4	    8	        10.5	    15	    18	                    1
+Apprentice	    d6	        2	            11	    15	        17.5	    21	    25	                    2
+Journeyman	    d8	        3	            17	    21	        24	        28	    32	                    3
+Master	        d10	        4	            24	    29	        33	        37	    42	                    4
+Olympian	    d12	        5	            33	    39	        43	        48	    53	                    5
+----------------------------------------------------------------------------------------------------------------------------------
+Lesser Deity	d12	        -               100	    ~200	~400	~650	~800	~1000	100             -
+Deity	        d12	        -               1000	~2000	~4000	~6500	~8000	~10000	1000            -
+Elder Deity	    d12	        -               10000	~20000	~40000	~65000	~80000	~100000	10000           -
+```
 # Maneuvers
 
 As a general rule, any character may attempt to do anything.
