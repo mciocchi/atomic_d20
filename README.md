@@ -36,16 +36,14 @@ We will prefer rules that can handle a wide range of power levels and situations
 # Example Character Sheet
 ```
 Name:           Tertius
-Concept:        Black Knight
+Concept:        Black Knight (Journeyman)
 Lineage:        Elf
 Physical:       🫁 ♡ ♡ ♡
 Mental:         🧠 🧠 🧠
 
-Saves
------
-Fortitude:  3
-Reflex:     0
-Willpower:  2
+Endure:  3
+React:     0
+Countenance: -1
 Perception: 1
 Stealth:    -3
 Armor:      3
@@ -75,7 +73,67 @@ Rations
 Backpack
 Flint and Steel
 ```
-# TODO Boons and Banes
+# Boons and Banes
+
+### Boons
+
+Boons represent advantages that characters have. As characters improve Aspects of themselves, their Boons get larger, and they roll progressively larger dice.
+
+For example, our Black Knight, Tertius is a Journeyman. The experiences and knowledge that he has acquired represent a significant advantage, and so he gets to roll at least D20 + 2D8 when he attacks with his axe, in contrast to an Unskilled character who would only roll D20.
+
+### Banes
+
+Conversely, a Bane is an Aspect of a character that disadvantages them in some way.
+
+Tertius is not exactly a people person. When he returns to town, his axe has become dull from use, and he seeks out a blacksmith to sharpen it.
+
+The Blacksmith attempts to charge Tertius five gold pieces. Tertius balks, and tries to convince him to do it for free.
+
+It could be argued that Tertius' past experiences as a Journeyman Black Knight might have involved dealing with this Blacksmith in the past, which would allow him to use that as a Boon in this situation, bringing his argument up to D20+2D8.
+
+Tertius was recently in a fight against his rival, the Wizard Ephora. He barely escaped with his life, with severe burns on his face to show for it.
+
+The wound that Tertius received granted his character an Aspect called "magical burns on face." His visage is repulsive, and this grants him a Bane to social interactions when trying to get people to like him. The Bane counteracts the Boon, bringing his roll down from D20+2D8 to D20+1D8!
+
+If Tertius had no more Boons to take away, he would roll D20 twice and take the lowest value.
+
+If he had multiple Boons of different sizes, his Boons would be removed in order of highest to lowest.
+
+# Aspects:
+
+Aspects are things that a character has. As long as a character has an Aspect, it is true. If the Aspect ceases to be true, it is crossed out or removed from the character's sheet.
+
+### Aspects can be double-sided
+
+Tertius has burns on his face. It's something he has, so it's an Aspect.
+
+He realizes that he's getting nowhere with the stubborn Blacksmith. He grabs the young man's throat in his gauntleted hand, turns the burned side of his face toward him, and says "Why don't you go ahead and grant me a discount as a longstanding customer?"
+
+In this case, the DM rules that Tertius' burns grant him a Boon to intimidating the Blacksmith. The DM already ruled that Tertius could apply his 2D8 Boon as a Journeyman Black Knight in this social situation because they had a prior relationship. Together, the Boons bring Tertius' roll up to D20+3D8.
+
+Like the burns on Tertius' face, a character's Aspects can be double-sided. In certain situations, at the discretion of the DM, a Bane can become a Boon, or a Boon can be turned into a Bane, and there are also situations where they provide neither.
+
+### Concept
+
+A character's Concept is a specific type of Aspect that encapsulates what they do. A Concept doesn' have to be about combat. It could be a profession, a vocation, or something else.
+
+When Tertius was a young man, he pledged fealty to the Order of the Ossuary to become a Black Knight. He chose it as his life path, and so it became his character's Concept.
+
+He has progressed to the level of a Journeyman, which means he has earned three Boons, equivalent to 3D8. Tertius placed two of those into his Concept, which means he can add an additional 2D8 to any rolls that he makes that relate to his experience as a Black Knight.
+
+### Expertise
+
+Within his studies as a Black Knight at the Order of the Ossuary, Tertius Dabbled in Necromancy. Knowledge of the Necromantic arts is something that Tertius has, so it's another Aspect of his character.
+
+Tertius receives a Boon to casting Necromantic spells because of his Aspect. He's a Journeyman, so the boon is 1D8.
+
+As an important sidenote: Tertius 
+
+Situation / Status / Wound
+Equipment
+Practice - not an Aspect. Do vs. Have disinction
+
+# TODO Character Progression
 # TODO Difficulty Scaling
 # Maneuvers
 
@@ -225,8 +283,6 @@ D20     Result
 # TODO Creating a Character: Dynamic Character Creation, Level 0
 
 Character stats don't have to be decided ahead of time. They can be decided in medias res, at the time the player needs them.
-
-# TODO Character Progression
 
 # TODO Defensive Actions
 
