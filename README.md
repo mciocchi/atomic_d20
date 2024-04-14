@@ -169,22 +169,6 @@ Tercius can attempt to do anything, but he gains an extra boon in these three Ma
 |Deity        |d12      |1000                   |~2000 |~4000    |~6500   |~8000 |~10000            |1000                |
 |Elder Deity  |d12      |10000                  |~20000|~40000   |~65000  |~80000|~100000           |10000               |
 
-# Maneuvers
-
-As a general rule, any character may attempt to do anything.
-
-By default, a character rolls as Untrained (+0)
-
-A character's Concept, Lineage, and Expertise each grant bonuses if they are relevant to the maneuver that the character is attempting.
-
-## Practiced vs. Spontaneous Maneuvers
-
-Once per day, characters may spend an hour during one of their rests practicing maneuvers. No more than five maneuvers may be practiced in this way.
-
-Maneuvers practiced this way may be rolled with a large boon (+2) in addition to any other bonuses that they would ordinarily receive.
-
-If characters wish to modify a maneuver and execute it with a slight difference from the way it was practiced, they receive a small boon (+1) instead of a large one.
-
 # TODO Spellcasting
 
 Spells are a particular kind of maneuver which involve bending the rules of the universe itself.
