@@ -41,13 +41,6 @@ Lineage:        Elf
 Physical:       🫁 ♡ ♡ ♡
 Mental:         🧠 🧠 🧠
 
-Endure:  3
-React:     0
-Countenance: -1
-Perception: 1
-Stealth:    -3
-Armor:      3
-
 Aspects
 -------
 Necromancer (1)
