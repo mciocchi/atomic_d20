@@ -7,6 +7,8 @@
 
 Atomic D20 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
 
+# TODO Rules at a Glance
+
 # Why is this game called Atomic D20?
 
 The Atom is the smallest stable unit found in nature. Despite its small size, it contains a great deal of potential energy, and it can be combined into a multitude of different forms. In that sense, this game seeks to embody the qualities of its namesake.
@@ -149,6 +151,7 @@ Tercius can attempt to do anything, but he gains an extra boon in these three Ma
 
 # TODO Character Progression
 # Difficulty Scaling
+
 |             |Boon Die:|Approximate # of Boons:|Easy: |Moderate:|Average:|Hard: |Nearly Impossible:|Maneuvers Practiced:|
 |-------------|---------|-----------------------|------|---------|--------|------|------------------|--------------------|
 |Success Rate:|         |                       |0.85  |0.66     |0.5     |0.33  |0.15              |                    |
@@ -240,25 +243,25 @@ Characters may choose to specify that they are attempting to deal nonlethal dama
 Wound Locations
 ---------------
 Physical wounds are localized to specific parts of a character's anatomy. If a character receives one as the result of an attack or failed maneuver, the DM may use the result of that roll in order to determine its location:
-```
-D20 result:     Wound Location:
-===============================
-20              Head
-19              Neck
-18              Upper Torso
-17              Lower Torso
-15-16           Groin
-13-14           Right Arm
-11-12           Left Arm
-10              Right Hand
-9               Left Hand
-8               Right Leg
-7               Left Leg
-6               Right Foot
-5               Left Foot
-3-4             Right Shoulder
-1-2             Left Shoulder
-```
+
+|D20 result:|Wound Location:|
+|-----------|---------------|
+|20         |Head           |
+|19         |Neck           |
+|18         |Upper Torso    |
+|17         |Lower Torso    |
+|15-16      |Groin          |
+|13-14      |Right Arm      |
+|11-12      |Left Arm       |
+|10         |Right Hand     |
+|9          |Left Hand      |
+|8          |Right Leg      |
+|7          |Left Leg       |
+|6          |Right Foot     |
+|5          |Left Foot      |
+|3-4        |Right Shoulder |
+|1-2        |Left Shoulder  |
+
 # Healing
 
 A character's Stamina recovers after a half hour rest without strenuous activity.
@@ -365,3 +368,4 @@ Consider: Players are always going to find ways to stack bonuses and break the s
 Enchanting?
 # TODO Initiative
 # TODO Time
+# Blank Character Sheet
