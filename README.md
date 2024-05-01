@@ -127,17 +127,17 @@ Dynamic Character Creation throws characters into the middle of the action. PCs 
 
 The PCs don't need to decide how many Expertise Boons they have in any skill until the moment they use that skill.
 
-When PCs use a skill, the DM prompts them to determine how many Expertise Boons (if any) they want to allocate into the Skill.
+When PCs use a skill, before they roll, the DM prompts them to determine how many Expertise Boons (if any) they want to allocate into it.
 
 Players may allocate two Expertise Boons in this way. They may take a third Expertise Boon in exchange for taking a Bane in something else.
 
 Over the course of the first session, players are also expected to decide their heritage and find weapons and equipment. The DM should work with the players to make sure they find the kind of weapons and equipment that they need. Heritage does not need to be decided until it affects the narrative.
 
-Once these Aspects are chosen, they're fixed, and they can't be changed again without DM permission.
+The first session usually ends with players having a much better idea regarding their Concept. At the end of the session, the DM can choose to allow the PCs to level up to Apprentice (D6) and at that time, they may pick a Concept that sums up the broad idea of what they want their character to be.
 
-The first session usually ends with players having a much better idea regarding their character Concept. At the end of the session, the DM can choose to allow the PCs to level up to Apprentice (D6) and at that time, they may pick a Concept that sums up the broad idea of what they want their character to be.
+At the time they pick their Concept, PCs may choose to clarify and refine their Expertise Boons to make sure they fit. After that, they're fixed, and they usually don't change again without DM permission.
 
-Players may choose to allocate any remaining Expertise Boons when they level up.
+Players should spend all their Expertise Boons if they have managed to level up to Apprentice without doing so already.
 
 # Quick Character Creation
 
@@ -149,9 +149,13 @@ Before the story starts, players work with the DM to choose:
 
 Players start the first session of the game as Apprentices.
 
-# TODO Character Progression
+# Character Progression
 
-explain experience points
+As the story progresses, the DM grants the players additional Expertise Boons which they may allocate as they see fit.
+
+When the players reach significant milestones in the story, the DM may decide that they have leveled up, at which point, the size of their Boon Dice increases.
+
+TODO - chart of expected boons per level and Boon Dice Size.
 
 # Difficulty Scaling
 
