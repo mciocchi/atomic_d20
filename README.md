@@ -227,7 +227,7 @@ Minor Wounds
 ------------
 If 9 damage or less is inflicted upon a character, they receive a Minor Wound. Minor physical wounds represent cuts and bruises, and they consume one Heart or Stamina.
 
-Minor mental wounds represent things like anxiety, depression, and trauma, and they consume one Brain or Stamina.
+Minor mental wounds represent things like anxiety, depression, and trauma, and they consume one Heart.
 
 A Minor Wound in a particularly annoying place might incur a temporary Bane upon the character whenever they attempt to use that body part.
 
@@ -267,8 +267,8 @@ Wounds are localized to specific parts of a character's anatomy. If a character 
 |3-4        |Right Shoulder |
 |1-2        |Left Shoulder  |
 
-Mental Scars
-------------
+Major Mental Wounds
+-------------------
 | 2d8: | 1                  | 2                  | 3                     | 4                      | 5                       | 6                     | 7                    | 8                    |
 |------|--------------------|--------------------|-----------------------|------------------------|-------------------------|-----------------------|----------------------|----------------------|
 | 1    | Hoarding           | Hoarding           | Nightmares            | Nightmares             | Depression              | Depression            | Anxiety              | Anxiety              |
@@ -292,7 +292,7 @@ Just because a wound has healed does not necessarily mean its effects are comple
 
 TODO How does magical / alchemical healing work?
 
-# Death:
+# Death
 
 When all of a character's wound slots are filled, they begin to die, and they may choose how to spend their last breaths:
 
