@@ -20,7 +20,8 @@ Wounds:
 ♡
 ♡
 ♡
-Aspects:        
+Aspects:
+* Elven Heritage
 * Burns on Face
 
 Expertise:
@@ -120,9 +121,37 @@ As a Journeyman, Tercius can practice and grant himself a Boon in three specific
 
 Tercius can attempt to do anything, but he gains an extra boon in these three Maneuvers over and above those granted by his other Aspects.
 
+# Dynamic Character Creation
+
+Dynamic Character Creation throws characters into the middle of the action. PCs begin their first session playing "Untrained" characters.
+
+The PCs don't need to decide how many Expertise Boons they have in any skill until the moment they use that skill.
+
+When PCs use a skill, the DM prompts them to determine how many Expertise Boons (if any) they want to allocate into the Skill.
+
+Players may allocate two Expertise Boons in this way. They may take a third Expertise Boon in exchange for taking a Bane in something else.
+
+Over the course of the first session, players are also expected to decide their heritage and find weapons and equipment. The DM should work with the players to make sure they find the kind of weapons and equipment that they need. Heritage does not need to be decided until it affects the narrative.
+
+Once these Aspects are chosen, they're fixed, and they can't be changed again without DM permission.
+
+The first session usually ends with players having a much better idea regarding their character Concept. At the end of the session, the DM can choose to allow the PCs to level up to Apprentice (D6) and at that time, they may pick a Concept that sums up the broad idea of what they want their character to be.
+
+Players may choose to allocate any remaining Expertise Boons when they level up.
+
+# Quick Character Creation
+
+Before the story starts, players work with the DM to choose:
+1) Concept
+2) Heritage
+3) 2 Expertise Boons or 3 Expertise Boons and 1 Bane
+4) Starting Equipment
+
+Players start the first session of the game as Apprentices.
+
 # TODO Character Progression
 
-
+explain experience points
 
 # Difficulty Scaling
 
