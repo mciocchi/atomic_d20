@@ -381,7 +381,33 @@ Q: Should Boons be able to be stacked, or should they cap off at Major?
 Items complicate character scaling tremendously by stacking Boons.
 
 Consider: Players are always going to find ways to stack bonuses and break the system. The parties that want to do that will gravitate to that sort of behavior. Don't worry about it. Instead, just make sure there is no single dominant strategy and the system scales gracefully.
-
+# Example Character Concepts
+| Concept:     | Expertise:                    | Boons: | Expertise:      | Boons: | Expertise:     | Boons: |
+|--------------|-------------------------------|--------|-----------------|--------|----------------|--------|
+| Wizard       | Necromancy                    | 3      |                 |        |                |        |
+| Alchemist    | Alchemy                       | 3      |                 |        |                |        |
+| Blacksmith   | Smithing                      | 3      |                 |        |                |        |
+| Hacker       | Computers                     | 3      |                 |        |                |        |
+| Cleric       | Priest of Aquus, God of Water | 2      | Shield and Mace | 1      |                |        |
+| Black Knight | Armizare (Knightly Combat)    | 2      | Necromancy      | 1      |                |        |
+| Ninja        | Ninjustu                      | 2      | Stealth         | 1      |                |        |
+| Combat Medic | Medicine                      | 2      | Firearms        | 1      |                |        |
+| Mecha Pilot  | Powered Armor                 | 2      | Tactics         | 1      |                |        |
+| Psychic      | Mentomancy (Mind magic)       | 2      | Telekinesis     | 1      |                |        |
+| Engineer     | Mechanics                     | 2      | Computers       | 1      |                |        |
+| Cyber Decker | VR                            | 2      | Computers       | 1      |                |        |
+| Doctor       | Medicine                      | 2      | Cybernetics     | 1      |                |        |
+| Cowboy       | Firearms                      | 2      | Equestrianism   | 1      |                |        |
+| Berzerker    | Two Handed Weapons            | 2      | Athletics       | 1      |                |        |
+| Bard         | Knife Juggling                | 1      | Charm           | 1      | Stage Magic    | 1      |
+| Spellsword   | Fencing                       | 1      | Evocation       | 1      | Abjuration     | 1      |
+| Wizard       | Electromancy                  | 1      | Gravetomancy    | 1      | Chronomancy    | 1      |
+| Ranger       | Archery                       | 1      | Survivalism     | 1      | Herbalism      | 1      |
+| Thief        | Stealth                       | 1      | Locksmith       | 1      | Knife Fighting | 1      |
+| Soldier      | Firearms                      | 1      | Leadership      | 1      | Tactics        | 1      |
+| Pirate       | Swordsmanship                 | 1      | Firearms        | 1      | Water Vehicles | 1      |
+| Shaman       | Mycomancy (Fungus Magic)      | 1      | Survivalism     | 1      | Javelin        | 1      |
+| Knight       | Armizare (Knightly Combat)    | 1      | Speech          | 1      | Equestrianism  | 1      |
 # TODO Weapons and Equipment
 # TODO Crafting
 Enchanting?
