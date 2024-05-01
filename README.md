@@ -233,7 +233,7 @@ A Minor Wound in a particularly annoying place might incur a temporary Bane upon
 
 Major Wounds
 ------------
-When a character takes 10 or more damage, they receive a Major Wound. Major wounds consume two units of physical or mental health and they always cause a scar.
+When a character takes 10 or more damage, they receive a Major Wound. Major wounds consume two units of physical or mental health and they always cause a Bane.
 
 Major Wounds may be permanent, or they may take as few as 7 days to heal. A particularly bad wound like an amputated limb might even render the affected body part completely nonfunctional.
 
@@ -241,11 +241,13 @@ When all of a character's Hearts are consumed, they begin to [die](#Death).
 
 Nonlethal Damage
 ----------------
-Characters may choose to specify that they are attempting to deal nonlethal damage. At that point, their target becomes unconscious instead of dying when all of their Hearts or Brains are consumed. Attacks with firearms and certain spells cannot be made nonlethal, but most blunt melee attacks can.
+Characters may choose to specify that they are attempting to deal nonlethal damage. At that point, their target becomes unconscious instead of dying when all of their Hearts are consumed.
+
+Attacks with firearms and certain spells cannot be made nonlethal, but most blunt melee attacks can.
 
 Wound Locations
 ---------------
-Physical wounds are localized to specific parts of a character's anatomy. If a character receives one as the result of an attack or failed maneuver, the DM may use the result of that roll in order to determine its location:
+Wounds are localized to specific parts of a character's anatomy. If a character receives one as the result of an attack or failed maneuver, the DM may use the result of that roll in order to determine its location as long as it makes narrative sense.
 
 |D20 result:|Wound Location:|
 |-----------|---------------|
@@ -265,8 +267,8 @@ Physical wounds are localized to specific parts of a character's anatomy. If a c
 |3-4        |Right Shoulder |
 |1-2        |Left Shoulder  |
 
-# Mental Scars
-
+Mental Scars
+------------
 | 2d8: | 1                  | 2                  | 3                     | 4                      | 5                       | 6                     | 7                    | 8                    |
 |------|--------------------|--------------------|-----------------------|------------------------|-------------------------|-----------------------|----------------------|----------------------|
 | 1    | Hoarding           | Hoarding           | Nightmares            | Nightmares             | Depression              | Depression            | Anxiety              | Anxiety              |
@@ -278,15 +280,15 @@ Physical wounds are localized to specific parts of a character's anatomy. If a c
 | 7    | Splitting          | Stuttering         | Tremors               | Uncontrollable Anger   | Uncontrollable Laughter | Uncontrollable Crying | Tic                  | Hallucinations       |
 | 8    | Depersonalization  | Derealization      | Monomania (Obsession) | Multiple Personalities | Paranoid Delusions      | Eating Disorder       | Amnesia              | Catatonia (d4 hours) |
 
-# Healing
-
+Healing
+-------
 A character's Stamina recovers after a half hour rest without strenuous activity.
 
-For each Minor Wound that they have, Characters may roll D20 when they wake up each morning. If they roll 8 or more, the wound is healed. The second day, the DC is 6.  On the third day, the DC is 4.
+For each Minor Wound that they have, Characters may make a DC 8 check when they wake up each morning to determine whether the wound is healed.
 
-Characters must wait until the morning of the seventh day in order to roll to heal a Major Wound. The DC to heal a Major wound is 14. At the DM's discretion, even after they heal, some Major Wounds inflict permanent changes.
+Characters must wait until the morning of the seventh day in order to roll to heal a Major Wound. The DC to heal a Major wound is 14. 
 
-Just because a wound has healed does not necessarily mean that its scar has gone away.
+Just because a wound has healed does not necessarily mean its effects are completely gone.
 
 TODO How does magical / alchemical healing work?
 
