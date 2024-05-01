@@ -214,13 +214,14 @@ D6:     Description:
 * Willpower?
 
 # Health and Wounds
-# TODO Stamina that death spirals, like exhaustion
 
-Characters have three kinds of health on their sheet. Stamina is represented by a pair of lungs. The state of a character's body is represented by hearts, and their mental state is represented by brains.
+Characters have two kinds of health on their sheet. The state of a character's body is represented by hearts.
 
-Most humanoids have one unit of Stamina, three units of physical health, and three units of mental health, but this is not necessarily always true. 
+A Character's Stamina is represented by a pair of lungs.
 
-Stamina is special because it can be consumed in place of a minor physical or mental wound. Consuming Stamina in this way represents a character expending their energy to take evasive action. In addition, some actions like sprinting or concentrating for a long period of time are particularly taxing and they may also consume a character's Stamina.
+Most humanoids have one unit of Stamina and three Hearts, but this is not necessarily always true. 
+
+Stamina is special because it can be consumed in place of Hearts. Consuming Stamina in this way represents a character expending their energy to take evasive action. In addition, some actions like sprinting or concentrating for a long period of time are particularly taxing and they may also consume Stamina.
 
 Minor Wounds
 ------------
@@ -232,13 +233,11 @@ A Minor Wound in a particularly annoying place might incur a temporary Bane upon
 
 Major Wounds
 ------------
-When a character takes 10 or more damage, they receive a Major Wound. Major wounds consume two units of physical or mental health and they always incur a Bane.
+When a character takes 10 or more damage, they receive a Major Wound. Major wounds consume two units of physical or mental health and they always cause a scar.
 
 Major Wounds may be permanent, or they may take as few as 7 days to heal. A particularly bad wound like an amputated limb might even render the affected body part completely nonfunctional.
 
-When all of a character's Hearts are consumed, they begin to die (see the corresponding section on Death for more details)
-
-When all of a character's Brains are consumed, their personality is permanently destroyed, and they become catatonic.
+When all of a character's Hearts are consumed, they begin to [die](#Death).
 
 Nonlethal Damage
 ----------------
@@ -266,7 +265,18 @@ Physical wounds are localized to specific parts of a character's anatomy. If a c
 |3-4        |Right Shoulder |
 |1-2        |Left Shoulder  |
 
-# TODO Mental Wounds
+# Mental Scars
+
+| 2d8: | 1                  | 2                  | 3                     | 4                      | 5                       | 6                     | 7                    | 8                    |
+|------|--------------------|--------------------|-----------------------|------------------------|-------------------------|-----------------------|----------------------|----------------------|
+| 1    | Hoarding           | Hoarding           | Nightmares            | Nightmares             | Depression              | Depression            | Anxiety              | Anxiety              |
+| 2    | Guilt              | Guilt              | Sickness Delusion     | Sickness Delusion      | Apocalypse Delusion     | Apocalypse Delusion   | Codependency         | Codependency         |
+| 3    | Compulsive Honesty | Compulsive Honesty | Compulsive Lying      | Compulsive Lying       | Nervous Compulsion      | Nervous Compulsion    | Phobia               | Phobia               |
+| 4    | Imaginary Friend   | Imaginary Friend   | Masochism             | Masochism              | Savior Delusion         | Savior Delusion       | Involuntary Memories | Involuntary Memories |
+| 5    | Insomnia           | Insomnia           | Addiction             | Addiction              | Narcolepsy              | Narcolepsy            | Narcissism           | Narcissism           |
+| 6    | Narcolepsy         | Narcolepsy         | Paranoia              | Paranoia               | Body Dysphoria          | Persevoration         | Pyromania            | Sadism               |
+| 7    | Splitting          | Stuttering         | Tremors               | Uncontrollable Anger   | Uncontrollable Laughter | Uncontrollable Crying | Tic                  | Hallucinations       |
+| 8    | Depersonalization  | Derealization      | Monomania (Obsession) | Multiple Personalities | Paranoid Delusions      | Eating Disorder       | Amnesia              | Catatonia (d4 hours) |
 
 # Healing
 
@@ -275,6 +285,8 @@ A character's Stamina recovers after a half hour rest without strenuous activity
 For each Minor Wound that they have, Characters may roll D20 when they wake up each morning. If they roll 8 or more, the wound is healed. The second day, the DC is 6.  On the third day, the DC is 4.
 
 Characters must wait until the morning of the seventh day in order to roll to heal a Major Wound. The DC to heal a Major wound is 14. At the DM's discretion, even after they heal, some Major Wounds inflict permanent changes.
+
+Just because a wound has healed does not necessarily mean that its scar has gone away.
 
 TODO How does magical / alchemical healing work?
 
