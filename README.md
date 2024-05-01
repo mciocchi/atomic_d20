@@ -296,24 +296,23 @@ TODO How does magical / alchemical healing work?
 
 When all of a character's wound slots are filled, they begin to die, and they may choose how to spend their last breaths:
 
-Inspiring last words:
----------------------
-You are mortally wounded, but your death need not be in vain. You use your last burst of energy to utter rousing last words which grant all allies within hearing distance a boon which they may use however they wish within the next ten minutes.
-
-Adrenaline:
------------
-You take your last breaths and adrenaline keeps you functioning and grants you a boon to use however you want before you die. In addition, you take an extra turn right at this moment. At the end of that turn, you die.
-
-Miraculous Recovery:
+Inspiring last words
 --------------------
+You are mortally wounded, but your death need not be in vain. You use your last burst of energy to utter rousing last words which grant all allies within hearing distance a Boon which they may use however they wish within the next ten minutes.
+
+Adrenaline
+----------
+You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die.
+
+Miraculous Recovery
+-------------------
 You become incapacitated and focus all your energy on staying alive. Roll d20 this turn and on each subsequent turn until you die or return to consciousness:
-```
-D20     Result
-==============
-19-20:  Against all odds, you open your eyes and become conscious again
-11-18:  Survive for another turn
-1-10:    Slip into the abyss and die
-```
+| D20:   | Result:                                                          |
+|--------|------------------------------------------------------------------|
+| 19-20: | Against all odds, you regain a heart and return to consciousness |
+| 11-18: | Survive for another turn                                         |
+| 1-10:  | Slip into the abyss and die                                      |
+
 # TODO Creating a Character: Dynamic Character Creation, Level 0
 
 Character stats don't have to be decided ahead of time. They can be decided in medias res, at the time the player needs them.
