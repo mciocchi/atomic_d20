@@ -15,24 +15,19 @@ The Atom is the smallest stable unit found in nature. Despite its small size, it
 
 # The Five Mutually Reenforcing Design Principles of Atomic D20
 
-Fun
----
+* Fun
 Above all else, we will strive to make our rules fun, even at the expense of our other principles.
 
-Speed
------
+* Speed
 A faster game is an exciting game, and exciting games are fun.
 
-Simplicity
-----------
+* Simplicity
 We will strive to do more with less, which will make our game faster to understand and play.
 
-Extensibility
--------------
+* Extensibility
 We will prefer open-ended rules that can be extended by players and the community, which will help us do more with less.
 
-Scalability
------------
+* Scalability
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
 
 # Example Character Sheet
