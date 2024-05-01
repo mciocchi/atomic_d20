@@ -37,34 +37,31 @@ We will prefer rules that can handle a wide range of power levels and situations
 
 # Example Character Sheet
 ```
-Name:           Tertius
-Concept:        Black Knight (Journeyman, 2)
-Physical:       🫁 ♡ ♡ ♡
-Mental:         🧠 🧠 🧠
+Name:        Tertius
+Concept:     Black Knight
+Skill Level: Journeyman (D8)
+Stamina:
+🫁
+Wounds:
+♡
+♡
+♡
+Aspects:        
+* Burns on Face
 
-Aspects
--------
-Necromancer (1)
-Magical Burn on Face
-Elven Lineage
+Expertise:
+* Armizare (Knightly Combat) 2
+* Necromancy 1
 
-Practiced Maneuvers (3)
------------------------
-Trip Attack
-Summon Skeleton
-Bone Javelins
-
-Equipment
----------
-Plate and Mail (Heavy)
-War Axe
-Kite Shield
-Component Pouch
-Rations
-Backpack
-Flint and Steel
+Equipment:
+* Plate and Mail
+* Kite Shield
+* War Axe
+* Rations
+* Backpack
+* Doublet
+* Trousers
 ```
-
 # Boons and Banes, and Skill Checks
 
 ### Boons
