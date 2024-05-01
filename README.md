@@ -39,7 +39,6 @@ We will prefer rules that can handle a wide range of power levels and situations
 ```
 Name:           Tertius
 Concept:        Black Knight (Journeyman, 2)
-Lineage:        Elf
 Physical:       🫁 ♡ ♡ ♡
 Mental:         🧠 🧠 🧠
 
@@ -47,6 +46,7 @@ Aspects
 -------
 Necromancer (1)
 Magical Burn on Face
+Elven Lineage
 
 Practiced Maneuvers (3)
 -----------------------
@@ -65,7 +65,7 @@ Backpack
 Flint and Steel
 ```
 
-# Boons and Banes
+# Boons and Banes, and Skill Checks
 
 ### Boons
 
@@ -150,6 +150,9 @@ As a Journeyman, Tercius can practice and grant himself a Boon in three specific
 Tercius can attempt to do anything, but he gains an extra boon in these three Maneuvers over and above those granted by his other Aspects.
 
 # TODO Character Progression
+
+
+
 # Difficulty Scaling
 
 |             |Boon Die:|Approximate # of Boons:|Easy: |Moderate:|Average:|Hard: |Nearly Impossible:|Maneuvers Practiced:|
@@ -165,7 +168,10 @@ Tercius can attempt to do anything, but he gains an extra boon in these three Ma
 |Deity        |d12      |1000                   |~2000 |~4000    |~6500   |~8000 |~10000            |1000                |
 |Elder Deity  |d12      |10000                  |~20000|~40000   |~65000  |~80000|~100000           |10000               |
 
+# TODO Adjusting story difficulty
+
 # TODO Spellcasting
+# TODO Spellburn Resistance?
 
 Spells are a particular kind of maneuver which involve bending the rules of the universe itself.
 
@@ -211,6 +217,7 @@ D6:     Description:
 * Willpower?
 
 # Health and Wounds
+# TODO Stamina that death spirals, like exhaustion
 
 Characters have three kinds of health on their sheet. Stamina is represented by a pair of lungs. The state of a character's body is represented by hearts, and their mental state is represented by brains.
 
@@ -261,6 +268,8 @@ Physical wounds are localized to specific parts of a character's anatomy. If a c
 |5          |Left Foot      |
 |3-4        |Right Shoulder |
 |1-2        |Left Shoulder  |
+
+# TODO Mental Wounds
 
 # Healing
 
@@ -368,4 +377,8 @@ Consider: Players are always going to find ways to stack bonuses and break the s
 Enchanting?
 # TODO Initiative
 # TODO Time
-# Blank Character Sheet
+# TODO Blank Character Sheet
+# TODO a typical combat turn
+# DM Screen?
+# TODO Wealth Levels
+
