@@ -281,9 +281,9 @@ Major Mental Wounds
 | 1    | Hoarding           | Hoarding           | Nightmares            | Nightmares             | Depression              | Depression            | Anxiety              | Anxiety              |
 | 2    | Guilt              | Guilt              | Sickness Delusion     | Sickness Delusion      | Apocalypse Delusion     | Apocalypse Delusion   | Codependency         | Codependency         |
 | 3    | Compulsive Honesty | Compulsive Honesty | Compulsive Lying      | Compulsive Lying       | Nervous Compulsion      | Nervous Compulsion    | Phobia               | Phobia               |
-| 4    | Imaginary Friend   | Imaginary Friend   | Masochism             | Masochism              | Savior Delusion         | Savior Delusion       | Involuntary Memories | Involuntary Memories |
-| 5    | Insomnia           | Insomnia           | Addiction             | Addiction              | Narcolepsy              | Narcolepsy            | Narcissism           | Narcissism           |
-| 6    | Narcolepsy         | Narcolepsy         | Paranoia              | Paranoia               | Body Dysphoria          | Persevoration         | Pyromania            | Sadism               |
+| 4    | Imaginary Friend   | Imaginary Friend   | Masochism             | Masochism              | Savior Delusion         | Involuntary Memories  | Involuntary Memories | Insomnia             |
+| 5    | Insomnia           | Addiction          | Addiction             | Narcolepsy             | Narcolepsy              | Narcissism            | Narcissism           | Narcolepsy           |
+| 6    | Narcolepsy         | Paranoia           | Paranoia              | Delusion (Misc.)       | Body Dysphoria          | Persevoration         | Pyromania            | Sadism               |
 | 7    | Splitting          | Stuttering         | Tremors               | Uncontrollable Anger   | Uncontrollable Laughter | Uncontrollable Crying | Tic                  | Hallucinations       |
 | 8    | Depersonalization  | Derealization      | Monomania (Obsession) | Multiple Personalities | Paranoid Delusions      | Eating Disorder       | Amnesia              | Catatonia (d4 hours) |
 
