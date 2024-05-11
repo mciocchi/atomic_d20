@@ -309,7 +309,7 @@ You are mortally wounded, but your death need not be in vain. You use your last 
 
 Adrenaline
 ----------
-You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die.
+You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die, regardless of any healing you receive.
 
 Miraculous Recovery
 -------------------
