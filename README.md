@@ -53,7 +53,7 @@ Tertius is a Journeyman, which means his dice size is d8. If he receives a Boon,
 
 In shorthand, we can express this as:
 
-  1B
+    1B
 
 If Tertius receives a Bane and no Boons, he rolls:
 
