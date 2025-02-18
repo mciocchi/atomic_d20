@@ -1,3 +1,7 @@
+# Atomic D20 is dead and deprecated in favor of [Atomic D6!](https://github.com/mciocchi/atomic_d6)
+
+This page remains here only for the sake of posterity.
+
 # Atomic D20
 #### Licensing
 
